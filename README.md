@@ -1,30 +1,89 @@
-# ATS with React
+Got it ✅. Based on the points in your image, I’ll draft a **README.md** file for your GitHub repo: [ndattatreya/eraah\_tech](https://github.com/ndattatreya/eraah_tech).
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Here’s a professional, clean README template:
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/dattatreyanammina1s-projects/v0-ats-with-react)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/M4L0vwYy9wp)
+---
 
-## Overview
+# ERAAH Tech
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## 📌 Project Overview & Architecture
 
-## Deployment
+ERAAH Tech is a **\[insert project type – e.g., web application / AI-based system / data pipeline]** designed to **\[short description of what it solves]**.
 
-Your project is live at:
+**Architecture Highlights:**
 
-**[https://vercel.com/dattatreyanammina1s-projects/v0-ats-with-react](https://vercel.com/dattatreyanammina1s-projects/v0-ats-with-react)**
+* **Frontend:** Built with \[React].
+* **Backend:** Powered by \[Node.js/Express].
+* **Database:** Uses \[MongoDB] for data persistence.
+* **Deployment:** Vercel
 
-## Build your app
+---
 
-Continue building your app on:
+## 🗄️ Database Schema
 
-**[https://v0.app/chat/projects/M4L0vwYy9wp](https://v0.app/chat/projects/M4L0vwYy9wp)**
+The database schema is structured to handle:
 
-## How It Works
+* **Users:** Authentication and role management.
+* **Data Entities:** \[Mention key tables/collections].
+* **Relations:** \[One-to-many, many-to-many depending on your schema].
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+📌 Example ER Diagram (if available, add here as an image or link).
+
+---
+
+## ⚙️ Setup & Deployment Instructions
+
+### 🔹 Local Setup
+
+1. Clone the repo:
+
+   ```bash
+   git clone https://github.com/ndattatreya/eraah_tech.git
+   cd eraah_tech
+   ```
+2. Install dependencies:
+
+   ```bash
+   npm install   # or pip install -r requirements.txt
+   ```
+3. Configure environment variables in a `.env` file (sample included).
+4. Run the application:
+
+   ```bash
+   npm run dev   # or python manage.py runserver
+   ```
+
+### 🔹 Cloud Deployment (if applicable)
+
+* Deployment on **Vercel** (add details).
+* Run migrations & seed database if required.
+
+---
+
+## 📚 Libraries Used
+
+* **Backend:** \[Express]
+* **Frontend:** \[React / TailwindCSS]
+* **Database:** \[MongoDB]
+* **Other Tools:** \[JWT.]
+
+---
+
+## 🎥 Demo Video
+
+👉 [Watch the demo here](#) *(Insert YouTube or Drive link once available)*
+
+---
+
+## 🤝 Contribution
+
+Contributions, issues, and feature requests are welcome!
+Feel free to fork this repo and create a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
